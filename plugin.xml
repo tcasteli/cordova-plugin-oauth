@@ -29,6 +29,7 @@ limitations under the License.
 
   <js-module src="www/oauth.js" name="OAuth">
     <clobbers target="window.open" />
+    <clobbers target="window.oauth" />
   </js-module>
 
 
@@ -80,5 +81,6 @@ limitations under the License.
     <preference name="ANDROID_SUPPORT_CUSTOM_TABS_VERSION" default="28.+" />
 
     <framework src="com.android.support:customtabs:$ANDROID_SUPPORT_CUSTOM_TABS_VERSION" />
+    <framework src="com.android.support:support-v4:28.0.0" />
   </platform>
 </plugin>
