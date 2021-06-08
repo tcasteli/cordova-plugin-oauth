@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-oauth" version="3.0.1">
-  <name>cordova-plugin-oauth</name>
+  <name>cordova-plugin-oauth-tcasteli</name>
   <description>Cordova plugin for performing OAuth login flows.</description>
   <keywords>cordova,ios,android,oauth</keywords>
   <license>Apache 2.0</license>
